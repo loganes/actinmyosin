@@ -1,4 +1,4 @@
-﻿File,Time,Treatment,area 1,area 2,area 3,area 4,area 5,area 6,area 7,area 8,area 9,AverageArea,CombinedAverage,StDev,Date
+﻿File,Time,Treatment,area1,area2,area3,area4,area5,area6,area7,area8,area9,AverageArea,CombinedAverage,StDev,Date
 1954,180,Ctrl,2364,2342,2579,2461,2910,2190,2200,2405,2119,2396.666667,,,10/30/19
 1955,180,Ctrl,2266,2046,2340,2375,2785,2141,2540,2535,2524,2394.666667,,,10/30/19
 1956,180,Ctrl,2466,2212,2217,1948,2078,1863,3204,2311,2141,2271.111111,2354.148148,71.91913612,10/30/19
